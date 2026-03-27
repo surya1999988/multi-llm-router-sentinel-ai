@@ -1,3 +1,6 @@
+<img width="800" height="1216" alt="image" src="https://github.com/user-attachments/assets/62c872e7-f55d-48c3-8bbb-00beadbebbe4" />
+
+
 # Sentinel AI: Multi-LLM Router
 
 ## Overview
