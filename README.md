@@ -45,14 +45,6 @@ User Query → Analysis → Routing Decision → Model Selection → Response
 * Complex reasoning tasks routed to advanced models
 * Code-related queries routed to specialized models
 
-## How to Run
-
-```bash
-pip install -r requirements.txt
-```
-
-Open the notebook and run all cells.
-
 ## Project Structure
 
 * `multi_llm_router.ipynb` → main implementation
@@ -70,3 +62,8 @@ Open the notebook and run all cells.
 
 Surya Prakash 
 AI Engineer | Machine Learning Enthusiast | Building Intelligent Systems
+
+sample output
+
+<img width="981" height="747" alt="image" src="https://github.com/user-attachments/assets/b3d7ff63-f688-421f-aced-626776dee081" />
+
